@@ -1,0 +1,37 @@
+class Solution {
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        boolean[] used = new boolean[nums.length];
+
+        backtrack(nums, used, new ArrayList<>(), ans);
+
+        return ans;
+    }
+
+    private void backtrack(int[] nums, boolean[] used, List<Integer> curr, List<List<Integer>> ans) {
+
+        // Base case
+        if (curr.size() == nums.length) {
+            ans.add(new ArrayList<>(curr));
+            return;
+        }
+
+        // Try every number
+        for (int i = 0; i < nums.length; i++) {
+
+            // Skip if already used
+            if (used[i]) continue;
+
+            // Choose
+            used[i] = true;
+            curr.add(nums[i]);
+
+            // Explore
+            backtrack(nums, used, curr, ans);
+
+            // Undo (Backtrack)
+            curr.remove(curr.size() - 1);
+            used[i] = false;
+        }
+    }
+}
