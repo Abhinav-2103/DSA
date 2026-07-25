@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Abhinav-2103/DSA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
