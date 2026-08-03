@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhinav-2103/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Abhinav-2103/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Abhinav-2103/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Abhinav-2103/DSA/tree/master/0048-rotate-image) |
@@ -32,6 +33,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhinav-2103/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav-2103/DSA/tree/master/0063-unique-paths-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhinav-2103/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
