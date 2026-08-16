@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/Abhinav-2103/DSA/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Abhinav-2103/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -68,5 +69,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav-2103/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
