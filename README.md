@@ -11,6 +11,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Abhinav-2103/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Abhinav-2103/DSA/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Abhinav-2103/DSA/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav-2103/DSA/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
