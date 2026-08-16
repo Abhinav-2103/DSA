@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abhinav-2103/DSA/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/Abhinav-2103/DSA/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Abhinav-2103/DSA/tree/master/0092-reverse-linked-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Abhinav-2103/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
