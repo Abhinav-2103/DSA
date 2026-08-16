@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,5 +74,10 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Abhinav-2103/DSA/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav-2103/DSA/tree/master/1768-merge-strings-alternately) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
