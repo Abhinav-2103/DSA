@@ -80,4 +80,20 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Abhinav-2103/DSA/tree/master/0099-recover-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Abhinav-2103/DSA/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Abhinav-2103/DSA/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Abhinav-2103/DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
