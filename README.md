@@ -71,6 +71,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Abhinav-2103/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhinav-2103/DSA/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
