@@ -17,6 +17,7 @@
 | [0090-subsets-ii](https://github.com/Abhinav-2103/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-2103/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhinav-2103/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-2103/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -126,4 +128,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav-2103/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
