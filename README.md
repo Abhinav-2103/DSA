@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-2103/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Abhinav-2103/DSA/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-2103/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Abhinav-2103/DSA/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Abhinav-2103/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav-2103/DSA/tree/master/1768-merge-strings-alternately) |
@@ -131,6 +133,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-2103/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
