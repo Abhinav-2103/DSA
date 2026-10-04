@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Abhinav-2103/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Abhinav-2103/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav-2103/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-2103/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav-2103/DSA/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-2103/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav-2103/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Abhinav-2103/DSA/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -159,4 +161,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhinav-2103/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinav-2103/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav-2103/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
