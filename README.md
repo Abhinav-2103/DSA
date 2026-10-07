@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Abhinav-2103/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abhinav-2103/DSA/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Abhinav-2103/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0036-valid-sudoku](https://github.com/Abhinav-2103/DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Abhinav-2103/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinav-2103/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/Abhinav-2103/DSA/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-2103/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav-2103/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Abhinav-2103/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
