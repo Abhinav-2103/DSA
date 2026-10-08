@@ -84,6 +84,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav-2103/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhinav-2103/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhinav-2103/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhinav-2103/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Abhinav-2103/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhinav-2103/DSA/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav-2103/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav-2103/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Abhinav-2103/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Abhinav-2103/DSA/tree/master/0141-linked-list-cycle) |
